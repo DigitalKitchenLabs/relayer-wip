@@ -1,0 +1,16 @@
+{
+  "type": "cosmos",
+  "value": {
+    "key": "default",
+    "chain-id": "uni-5",
+    "rpc-addr": "https://juno-testnet-rpc.polkachu.com",
+    "account-prefix": "juno",
+    "keyring-backend": "os",
+    "gas-adjustment": 1.2,
+    "gas-prices": "0.025ujuno",
+    "debug": true,
+    "timeout": "20s",
+    "output-format": "json",
+    "sign-mode": "direct"
+  }
+}

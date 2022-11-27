@@ -1,0 +1,16 @@
+{
+  "type": "cosmos",
+  "value": {
+    "key": "default",
+    "chain-id": "kitten-04",
+    "rpc-addr": "http://95.216.0.176:26657",
+    "account-prefix": "ccat",
+    "keyring-backend": "os",
+    "gas-adjustment": 1.2,
+    "gas-prices": "0.001uccat",
+    "debug": true,
+    "timeout": "20s",
+    "output-format": "json",
+    "sign-mode": "direct"
+  }
+}
