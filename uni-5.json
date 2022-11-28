@@ -3,7 +3,7 @@
   "value": {
     "key": "default",
     "chain-id": "uni-5",
-    "rpc-addr": "https://juno-testnet-rpc.polkachu.com",
+    "rpc-addr": "http://65.109.27.30:26657",
     "account-prefix": "juno",
     "keyring-backend": "os",
     "gas-adjustment": 1.2,
