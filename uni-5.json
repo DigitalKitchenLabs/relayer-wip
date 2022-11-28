@@ -7,7 +7,7 @@
     "account-prefix": "juno",
     "keyring-backend": "os",
     "gas-adjustment": 1.2,
-    "gas-prices": "0.025ujuno",
+    "gas-prices": "0.025ujunox",
     "debug": true,
     "timeout": "20s",
     "output-format": "json",
