@@ -3,7 +3,7 @@
   "value": {
     "key": "default",
     "chain-id": "kitten-04",
-    "rpc-addr": "https://rpc.coolcat.space:433",
+    "rpc-addr": "https://rpc.coolcat.space",
     "account-prefix": "ccat",
     "keyring-backend": "os",
     "gas-adjustment": 1.2,
